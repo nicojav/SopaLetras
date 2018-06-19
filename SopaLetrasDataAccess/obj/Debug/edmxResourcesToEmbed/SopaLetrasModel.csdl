@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SopaLetrasModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Busqueda">
+    <Key>
+      <PropertyRef Name="busqueda_palabra" />
+    </Key>
+    <Property Name="busqueda_palabra" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="busqueda_coordenadas" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="SopaLetrasEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Busqueda" EntityType="Self.Busqueda" />
+  </EntityContainer>
+</Schema>

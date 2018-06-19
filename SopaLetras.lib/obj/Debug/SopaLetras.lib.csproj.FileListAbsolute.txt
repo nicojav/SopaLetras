@@ -1,0 +1,10 @@
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetras.lib\bin\Debug\SopaLetras.lib.dll
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetras.lib\bin\Debug\SopaLetras.lib.pdb
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetras.lib\obj\Debug\SopaLetras.lib.dll
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetras.lib\obj\Debug\SopaLetras.lib.pdb
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetras.lib\obj\Debug\SopaLetras.lib.csprojResolveAssemblyReference.cache
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetras.lib\bin\Debug\SopaLetras.lib.dll
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetras.lib\bin\Debug\SopaLetras.lib.pdb
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetras.lib\obj\Debug\SopaLetras.Lib.csprojResolveAssemblyReference.cache
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetras.lib\obj\Debug\SopaLetras.lib.dll
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetras.lib\obj\Debug\SopaLetras.lib.pdb

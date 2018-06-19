@@ -1,0 +1,9 @@
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetrasUnitTest\bin\Debug\SopaLetrasUnitTest.dll
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetrasUnitTest\bin\Debug\SopaLetrasUnitTest.pdb
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetrasUnitTest\bin\Debug\SopaLetrasApp.exe
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetrasUnitTest\bin\Debug\SopaLetras.lib.dll
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetrasUnitTest\bin\Debug\SopaLetrasApp.pdb
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetrasUnitTest\bin\Debug\SopaLetras.lib.pdb
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetrasUnitTest\obj\Debug\SopaLetrasUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetrasUnitTest\obj\Debug\SopaLetrasUnitTest.dll
+C:\Users\havki\Documents\Visual Studio 2013\Projects\ProyectosMios\SopaLetrasApp\SopaLetrasUnitTest\obj\Debug\SopaLetrasUnitTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\bin\Debug\SopaLetrasDataAccess.dll.config
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\bin\Debug\SopaLetrasDataAccess.dll
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\bin\Debug\SopaLetrasDataAccess.pdb
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\obj\Debug\SopaLetrasDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\obj\Debug\SopaLetrasDataAccess.dll
+C:\Users\havki\documents\visual studio 2013\Projects\SopaLetrasApp\SopaLetrasDataAccess\obj\Debug\SopaLetrasDataAccess.pdb
